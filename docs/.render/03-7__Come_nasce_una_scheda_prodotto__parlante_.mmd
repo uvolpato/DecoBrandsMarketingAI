@@ -1,0 +1,8 @@
+﻿
+flowchart LR
+    P1[Immagine del prodotto] -->|"IA riconosce: materiali,<br/>finiture, misure, colori"| P2[Candidata]
+    C1[Catalogo PDF fornitore] -->|"IA estrae: ref, descrizioni,<br/>caratteristiche"| P2
+    C2[Web] -->|"IA integra info pubbliche"| P2
+    P2 -->|"lo stagista controlla"| P3[Scheda approvata<br/>e versionata]
+    P3 --> P4[Usata nelle proposte]
+

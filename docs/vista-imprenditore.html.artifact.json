@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "kind": "html",
+  "title": "docs/vista-imprenditore.html",
+  "entry": "docs/vista-imprenditore.html",
+  "renderer": "html",
+  "status": "complete",
+  "exports": [
+    "html",
+    "pdf",
+    "zip"
+  ],
+  "createdAt": "2026-09-12T14:26:40.261Z",
+  "updatedAt": "2026-09-12T14:26:40.261Z",
+  "metadata": {
+    "inferred": true,
+    "reconciled": true
+  }
+}
